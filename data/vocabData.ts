@@ -24,6 +24,7 @@ export const VOCAB_DATA: VocabWord[] = [
   { word: 'lion', chinese: '獅子', sentence: 'The ____ is the king.', category: 'animals', grade: 1 },
   { word: 'monkey', chinese: '猴子', sentence: 'The ____ likes bananas.', category: 'animals', grade: 1 },
   { word: 'bird', chinese: '鳥', sentence: 'The ____ can fly.', category: 'animals', grade: 1 },
+  { word: 'tiger', chinese: '老虎', sentence: 'The ____ can roar.', category: 'animals', grade: 1 },
   
   // Colors
   { word: 'red', chinese: '紅色的', sentence: 'I like the color ____.', category: 'colors', grade: 1 },
